@@ -22,7 +22,7 @@ const swiper = new Swiper('.slider', {
 
   pagination: {
     el: '.slider__pagination',
-    clickable: true,
+    clickable: false,
   },
 
   breakpoints: {
